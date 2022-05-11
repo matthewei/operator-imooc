@@ -1,0 +1,6 @@
+apiVersion: k8s.imooc.com.cmss/v1alpha1
+kind: ImoocPod
+metadata:
+  name: imoocpod-sample
+spec:
+  # TODO(user): Add fields here
